@@ -1,0 +1,57 @@
+.navbar-nav .btn-primary{
+    background-color: rgb(149, 0, 255);
+    border: 0;
+    transition: all 0.5s;
+    color: white;
+    /* padding: 15px 40px; */
+    /* font-size: 16px; */
+    /* font-weight: bold; */
+}
+.navbar-nav .btn-primary:hover{
+    background-color: indigo;
+    border: 0;
+    transition: all 0.5s;
+    color: white;
+    /* padding: 15px 40px; */
+    /* font-size: 16px; */
+    /* font-weight: bold; */
+}
+
+.navbar-nav a.btn-outline-primary{
+    border-color: indigo;
+    border-width: 2px;
+    transition: all 0.5s;
+    /* color: white; */
+}
+.navbar-nav a.btn-outline-primary:hover{
+    background-color: indigo;
+    border-color: indigo;
+    border-width: 2px;
+    transition: all 0.5s;
+    color: white !important;
+}
+
+.hero .btn-primary{
+    background-color: rgb(149, 0, 255);
+    border: 0;
+    transition: all 0.5s;
+    padding: 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.hero .btn-primary:hover{
+    background-color: indigo;
+    border: 0;
+}
+
+.hero h1{
+    font-family: 'Poppins', sans-serif;
+}
+.hero p{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 .text-indigo{
+    color: rgb(149, 0, 255);
+}
